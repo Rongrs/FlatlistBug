@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rong/Work/Code/Playground/FlatlistBug/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rong/.android/build-cache/09839dccb1f102f06992604a8762ad2969481b39/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rong/Work/Code/Playground/FlatlistBug/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rong/.android/build-cache/09839dccb1f102f06992604a8762ad2969481b39/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
